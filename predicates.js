@@ -1,0 +1,20 @@
+window.predicates = [
+() => true,
+() => true,
+() => true,
+() => true,
+() => true,
+() => true,
+() => true,
+() => true,
+() => true,
+() => true,
+() => true,
+() => true,
+() => true,
+() => true,
+() => true,
+() => true,
+() => true,
+() => true
+];
